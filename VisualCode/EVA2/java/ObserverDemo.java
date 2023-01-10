@@ -5,7 +5,7 @@ public class ObserverDemo {
         System.out.println("Enter Text : ");
         EventSource eventSource = new EventSource();
 
-
+        
         Persona amparo = new Persona("Amparo");
         Persona joaquin = new Persona("Joaquin");
 
